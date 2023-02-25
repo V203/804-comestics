@@ -29,15 +29,15 @@
   justify-content: center;
   align-items: center;
   font-family: monospace;
-  
 }
 
 .homeComponentContent{
   display: flex;
   flex-flow: column;
   width: 30%;
-
 }
+
+
 .homeBTN{
   display: flex;
   width: 50%;  
